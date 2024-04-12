@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Zomb1342
+- 👀 I’m interested in Coding, Basketball, and Video games
+- 🌱 I’m currently learning C++, Reversing using IDA Pro, and Linux Kernel. 
+- 💞️ I’m looking to collaborate on nothing at the moment
+- 📫 How to reach me: You don't. 
+- 😄 Pronouns: unknown
+- ⚡ Fun fact: I love dogs! 
